@@ -9,6 +9,11 @@ Para mejorar la compatibilidad con las versiones actuales de Python y otros paqu
 
 
 
+
+
+
+
+
 Abrir la terminal de Git Bash o terminal en Linux, debe ser como administrador en Window
 
 Creamos una carpeta o directorio:
