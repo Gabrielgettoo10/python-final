@@ -6,13 +6,7 @@ pip es el gestor de paquetes de Python, utilizado para instalar y gestionar paqu
 
 Para mejorar la compatibilidad con las versiones actuales de Python y otros paquetes. Para obtener parches de seguridad que protejan contra vulnerabilidades. Para acceder a nuevas funcionalidades y mejoras de rendimiento. Para corregir errores conocidos y mejorar la estabilidad.
 
-
-
-
-
-
-
-
+----------------------------------------------------------------------------------------------------------------------------------
 
 Abrir la terminal de Git Bash o terminal en Linux, debe ser como administrador en Window
 
